@@ -15,10 +15,13 @@ Project ini adalah dokumentasi eksperimen menggunakan **Agentic AI (Google Antig
 Jalankan script exploit untuk melihat bagaimana serangan DoS/Stress Test bekerja:
 ```bash
 python exploit_eliza.py
+```
 
 ### 2. Menjalankan Bot Aman (Blue Team)
 Coba chat dengan bot yang sudah diamankan:
+```
 python eliza_advanced.py
+```
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 📝 Skenario Eksperimen
