@@ -1,4 +1,4 @@
-##Eliza Bot Experiment: Built & Tested with Google Antigravity
+# Eliza Bot Experiment: Built & Tested with Google Antigravity
 
 Project ini adalah eksperimen menggunakan Agentic AI untuk siklus Software Engineering:
 
